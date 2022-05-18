@@ -1,6 +1,8 @@
 # Description
 
-This package enables the user to have this app running and any one try to peek or any object obstructs camera the system get locked on its own
+This package enables the user to have this app running and any one try to peek or any object obstructs camera the system get locked on its own. This package enables the user to have this app running and any one try to peek or any object obstructs camera the system get locked on its own. 
+
+Gestures : Simply wave your hand in front of camera / move away from laptop - autolock of system ! Hailo ! 
 
 # Usage
 
