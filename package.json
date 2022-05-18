@@ -1,6 +1,6 @@
 {
   "name": "virtualeye",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -27,10 +27,13 @@
   "bin": {
     "ezvirtualeye": "./index.js"
   },
+  "repository": "https://github.com/vjkrish84/VEye.git",
   "keywords": [
     "autolock",
     "securecam",
     "wfhsecure",
-    "easyspy"
+    "easyspy",
+    "piratecheck",
+    "authentication"
   ]
 }
